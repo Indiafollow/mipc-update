@@ -1,7 +1,7 @@
 {
   "app_name": "MIPC Viewer",
   "latest_version": "1.0.0.1",
-  "update_required": false,
+  "update_required": true,
   "update_message": "Update available. Please update MIPC Viewer to continue.",
   "update_url": "https://example.com/mipc_viewer.apk"
 }
